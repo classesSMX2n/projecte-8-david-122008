@@ -1,3 +1,6 @@
+
+[Document del projecte](https://docs.google.com/document/d/1wAz72D_3areuGHljqTk5RIv1zbJN9xMOlYOJDR_EoiI/edit?usp=sharing)
+
 Exercicis
 Anàlisi en viu
 ICMP
